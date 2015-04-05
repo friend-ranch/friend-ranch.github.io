@@ -1,0 +1,8 @@
+@media (max-width: 700px) {
+  /* line 2, /Users/worace/code/friend_ranch/source/stylesheets/responsive.css.scss */
+  li, p {
+    font-size: 20px; }
+
+  /* line 6, /Users/worace/code/friend_ranch/source/stylesheets/responsive.css.scss */
+  nav li {
+    font-size: 24px; } }
